@@ -1,0 +1,8 @@
+# .gitignore file
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# Temporary data files
+data/resumes/
