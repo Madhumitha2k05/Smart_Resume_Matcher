@@ -4,7 +4,7 @@ An intelligent recruitment tool built with Flask and powered by semantic search 
 
 ### ✨ Live Demo
 
-**You can view the live deployed application here:** [https://hr-intelligence-dashboard.onrender.com](https://hr-intelligence-dashboard.onrender.com) 
+**You can view the live deployed application here:**DEPLOYMENT LINK : https://smart-resume-matcher-3.onrender.com
 *(Note: The app is hosted on a free tier and may take 30-60 seconds to wake up on the first visit.)*
 
 ---
@@ -13,6 +13,12 @@ An intelligent recruitment tool built with Flask and powered by semantic search 
 
 
 *(A screenshot of the main dashboard showing a ranked list of candidates with detailed insights.)*
+Sample output:
+![WhatsApp Image 2025-09-05 at 13 37 17_49873d27](https://github.com/user-attachments/assets/802b5676-40af-4013-b504-9dc6fef13f09)
+
+![WhatsApp Image 2025-09-05 at 13 38 15_d40f6e18](https://github.com/user-attachments/assets/fa106abe-0f3a-4c43-a115-f0344613e5ae)
+
+
 
 ---
 
